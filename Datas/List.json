@@ -1,0 +1,135 @@
+{
+	"App": {
+		"Communication" : {
+			"Discord" : {
+				"Windows" : "https://discord.com/api/download?platform=win",
+				"Linux" : "https://discord.com/api/download?platform=linux"
+			},
+			"Zoom" : {
+				"All" : "https://zoom.us/download#client_4meeting"
+			},
+			"Microsoft Team" : {
+				"All" : "https://teams.microsoft.com"
+			}
+		},
+		"Development" : {
+			"Notepad++" : {
+				"All" : "https://notepad-plus-plus.org/downloads/"
+			},
+			"HxD" : {
+				"Windows" : "https://mh-nexus.de/en/programs.php"
+			},
+			"WinMerge" : {
+				"Windows" : "https://winmerge.org/downloads/"
+			},
+			"Visual Studio (Code, Mac)" : {
+				"All" : "https://visualstudio.microsoft.com/fr/"
+			},
+			"Blender" : {
+				"All" : "https://www.blender.org/download/",
+				"Windows 10 & 11" : "https://www.microsoft.com/store/apps/9PP3C07GTVRH"
+			},
+			"Unity" : {
+				"All" : "https://store.unity.com/download?ref=personal"
+			},
+			"Android Studio" : {
+				"All" : "https://developer.android.com/studio"
+			},
+			"JetBrains" : {
+				"Licenses" : "https://account.jetbrains.com/licenses",
+				"All products" : "https://www.jetbrains.com/products/"
+			}			
+		},
+		"Game" : {
+			"Steam" : {
+				"Windows" : "https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe"
+			},
+			"EA Desktop" : {
+				"Windows" : "https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EADesktopInstaller.exe"
+			},
+			"Ubisoft Connect" : {
+				"Windows" : "https://ubistatic3-a.akamaihd.net/orbit/launcher_installer/UbisoftConnectInstaller.exe"
+			},
+			"Epic Game Launcher" : {
+				"Windows" : "https://www.epicgames.com/store/en/download"
+			},
+			"Battle.net" : {
+				"Windows" : "https://www.blizzard.com/download/confirmation?product=bnetdesk&platform=windows"
+			},
+			"Xbox" : {
+				"Windows 10 & 11" : "https://www.microsoft.com/store/apps/9mv0b5hzvk9z"
+			},
+			"Minecraft" : {
+				"All" : "https://www.minecraft.net/fr-fr/download",
+				"All - TLauncher" : "https://tlauncher.org/en/"
+			},
+			"League of Legends" : {
+				"All" : "https://signup.euw.leagueoflegends.com/en/signup/redownload"
+			}
+		},
+		"Other" : {
+			"WinRAR" : {
+				"Windows (x64)" : "https://www.win-rar.com/postdownload.html?&amp;L=10",
+				"Windows (x32)" : "https://www.win-rar.com/postdownload.html?&amp;L=10&amp;Version=32bit"
+			},
+			"FileZila" : {
+				"All" : "https://filezilla-project.org/download.php?show_all=1"
+			},
+			"qBittorrent" : {
+				"All" : "https://www.fosshub.com/qBittorrent.html"
+			},
+			"LG HUB" : {
+				"Windows" : "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe"
+			},
+			"Putty" : {
+				"All" : "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html"
+			},
+			"Microsoft Office" : {
+				"All" : "https://setup.office.com/home/getoffice"
+			},
+			"OnlyOffice" : {
+				"All" : "https://www.onlyoffice.com/fr/download-desktop.aspx"
+			},
+			"PowerToys" : {
+				"Windows" : "https://github.com/microsoft/PowerToys/releases",
+				"Windows 10 & 11" : "https://aka.ms/getPowertoys"
+			},
+			"GeForce Experience" : {
+				"Windows" : "https://www.nvidia.com/fr-fr/geforce/geforce-experience/games/"
+			},
+			"AnyDesk" : {
+				"All" : "https://anydesk.com/"
+			},
+			"Folder Size Explorer" : {
+				"Windows" : "https://www.folder-size-explorer.com/download-folder-size-explorer.shtml"
+			}
+		},
+	},
+	"Driver" : {
+		"Intel" : {
+			"All" : "https://downloadcenter.intel.com/"
+		},
+		"AMD" : {
+			"All" : "https://www.amd.com/support"
+		},
+		"NVIDIA" : {
+			"All" : "https://www.nvidia.fr/Download/index.aspx"
+		},
+		"HP" : {
+			"Windows" : "https://www.hp.com/us-en/campaigns/hpsupportassistant/hpsupport.html"
+		},
+		"Dell" : {
+			"Windows" : "https://downloads.dell.com/serviceability/catalog/SupportAssistInstaller.exe"
+		},
+		"MSI" : {
+			"For Desktop" : "http://download.msi.com/uti_exe/mb/LiveUpdate.zip",
+			"For modern Laptop" : "https://www.msi.com/Landing/dragon-center-download/nb"
+		},
+		"Lenovo" : {
+			"Windows 10 & 11" : "https://www.microsoft.com/store/apps/9wzdncrfj4mv"
+		},
+		"Asus" : {
+			"Windows 10 & 11" : "https://www.microsoft.com/store/apps/9n7r5s6b0zzh"
+		}
+	}
+}
